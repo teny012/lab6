@@ -62,7 +62,7 @@ public class MainActivity extends AppCompatActivity {
 
         String[] transNameArray = new String[]{"腳踏車","機車","汽車","巴士"};
         int[] transPhotoIdArray = new int[]{R.drawable.trans1, R.drawable.trans2,
-                R.drawable.trans3, R.drawable.trans4};
+                R.drawable.trans3, R.drawable.trans4, R.drawable.trans5,R.drawable.trans6};
 
         String[] cubeeNameArray = new String[]{ "哭哭","發抖",
                 "再見","生氣",
