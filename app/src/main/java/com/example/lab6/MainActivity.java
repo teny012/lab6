@@ -60,7 +60,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        String[] transNameArray = new String[]{"腳踏車","機車","汽車","巴士"};
+        String[] transNameArray = new String[]{"腳踏車","機車","汽車","巴士","飛機","輪船"};
         int[] transPhotoIdArray = new int[]{R.drawable.trans1, R.drawable.trans2,
                 R.drawable.trans3, R.drawable.trans4, R.drawable.trans5,R.drawable.trans6};
 
